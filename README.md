@@ -8,3 +8,5 @@ Then the program should write this returned dictionary in a excel spreadsheet, w
 Then vertically from each van number, should be the list of names, the driver names should come first and be bolded and the passengers (ie people who can't drive). Then close the file. 
 
 If there is any errors such as not enough drivers for every van, or not enough vans for everyone, then the program should print out appropriate messages. 
+
+Currently, I am having issues trying to get the xlsx writer module to properly work so I can write the dictionary to a spreadsheet. 
